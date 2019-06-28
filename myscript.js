@@ -1,14 +1,14 @@
 var nome,cognome,colore;
 
 
-nome=prompt('qual è il tuo nome?');
+nome = prompt('qual è il tuo nome?');
 
 
-cognome=prompt('e il tuo cognome?');
+cognome = prompt('e il tuo cognome?');
 
 
 
-colore=prompt('il tuo colore preferito?');
+colore = prompt('il tuo colore preferito?');
 
 
-document.getElementById('psw').innerHTML=nome+cognome+colore+19;
+document.getElementById('psw').innerHTML = nome + cognome + colore + 19;
